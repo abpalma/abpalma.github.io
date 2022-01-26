@@ -1,13 +1,13 @@
+body {
+    font-size: 20;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-image: url("sea.jpg");
 
-        body {
-            font-size: 20px;
-            background-color: rgba(0,128,0,0.3);
-            font-family: "Helvetica", sans-serif;
-        }
+}
 
-        h1 {
-            font-size: 3.5em;
-        }  
+
+        
         
 
 
